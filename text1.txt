@@ -1,2 +1,2 @@
-Ich mache eine Änderung im Branch feature2
+Für Feature3 mache ich eine neue Änderung! 
 
